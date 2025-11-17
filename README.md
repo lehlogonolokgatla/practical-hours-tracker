@@ -45,3 +45,4 @@ Built entirely in **Streamlit**, with **SQLite** for local storage.
 
 1. Clone this repo:
 # practical-hours-tracker
+# practical-hours-tracker
