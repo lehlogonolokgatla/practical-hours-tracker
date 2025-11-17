@@ -346,7 +346,7 @@ elif menu == "👩‍🎓 Manage Students":
 # SITE REQUIREMENTS
 # -------------------------------
 elif menu == "⚙️ Site Requirements":
-    st.header("Site Requirements (CRUD)")
+    st.header("Site Requirements")
     df = get_sites_df()
     st.dataframe(df)
 
